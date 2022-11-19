@@ -1,0 +1,5 @@
+OOP stands for Object-Oriented Programming.
+Object and classes are two main aspects of OOPS
+
+class is a template for objects, and an object is an instance of a class.
+
